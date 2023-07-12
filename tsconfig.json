@@ -10,7 +10,7 @@
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
     "paths": {
-      "models": [
+      "@@models": [
         "dist/models"
       ]
     },
